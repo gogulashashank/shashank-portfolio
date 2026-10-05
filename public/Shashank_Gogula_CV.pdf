@@ -1,0 +1,72 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1601 >>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(Shashank Gogula - Curriculum Vitae) Tj
+/F1 10 Tf
+0 -25 Td
+(Risk Analytics, AML Graph Intelligence & AI Systems Builder) Tj
+0 -16 Td
+(London, UK | Email: shashankgogula98@gmail.com | Portfolio: https://shashank-portfolio.com) Tj
+0 -16 Td
+(LinkedIn: https://linkedin.com/in/shashank-gogula-473a9a126/ | GitHub: https://github.com/gogulashashank) Tj
+0 -16 Td
+(------------------------------------------------------------------------------------------------------------------) Tj
+0 -16 Td
+(PROFESSIONAL SUMMARY) Tj
+0 -16 Td
+(5+ years high-stakes FinCrime, Trust & Risk casework at Amazon & LinkedIn.) Tj
+0 -16 Td
+(Specialised in recursive entity resolution, AML graph intelligence, and deterministic regulatory engines.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(CORE SYSTEMS & PROJECTS) Tj
+0 -16 Td
+(1. EntityNexus - Autonomous AML & SRA Regulatory Intake Platform \(FastAPI, NetworkX, D3.js\)) Tj
+0 -16 Td
+(2. Launchstack - Cross-Border Corridor Compliance & KYC Rule Engine \(Next.js, FATF Travel Rule\)) Tj
+0 -16 Td
+(3. Caledonian Risk Atlas - Spatial FinCrime Intelligence & H3 Hexagonal Binning \(WebGL, MapLibre\)) Tj
+0 -16 Td
+(4. Flagged: AML Simulator - Placement, Layering & Integration Simulation \(React, Zustand, SAR logic\)) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(CAREER TENURE) Tj
+0 -16 Td
+(- Advisor I, Concentrix \(June 2026 - Present\)) Tj
+0 -16 Td
+(- Global Support Engineer II, Vimeo \(May 2023 - Dec 2023\)) Tj
+0 -16 Td
+(- Senior Trust & Safety Analyst, LinkedIn \(Nov 2021 - May 2023\)) Tj
+0 -16 Td
+(- Transactions & Risk Investigations, Amazon \(Dec 2019 - Nov 2021\)) Tj
+0 -16 Td
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000290 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+1943
+%%EOF

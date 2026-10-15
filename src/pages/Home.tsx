@@ -11,8 +11,8 @@ export default function Home() {
   return (
     <div className="w-full flex flex-col">
       <Hero />
-      <Marquee />
       <WorkSection />
+      <Marquee />
       <SystemsSection />
       <WireSection />
       <ExperienceSection />
